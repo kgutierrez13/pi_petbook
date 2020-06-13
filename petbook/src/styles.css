@@ -1,0 +1,213 @@
+/* You can add global styles to this file, and also import other style files */
+/* GENERALES */ 
+.h1-strong{
+	font-size: 35px;
+	font-weight: bold;
+	/*margin-left: 13px;*/
+	margin-bottom: 20px;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #eee;
+}
+
+.active{
+	background: #5985d9 ;
+}
+
+.pointer{
+	cursor: pointer;
+}
+/*HEADERS*/
+
+.navigation {
+	margin: 0px; 
+	padding: 0px;
+}
+
+.navigation .navbar {
+	border-radius: 0px !important;
+	background-color: midnightblue !important ;
+	border: none;
+}
+
+.navigation .navbar *{
+	color: white !important;
+}
+
+.navigation .navbar a:hover{
+	background: #5985d9 !important;
+}
+
+.jumbotron{
+	padding: 30px; 
+	border-radius: 4px;
+	text-align: center;
+}
+
+.user-image-for-edit img{
+	height: 100%;
+}
+
+.navigation .avatar{
+	width: 35px;
+	height: 35px; 
+	border-radius: 100px;
+	overflow:  hidden;
+	margin-top: 9px; 
+	margin-right: 2px;
+}
+
+.navigation .avatar img{
+	width: 100%;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus{
+	background: #5985d9 !important;
+}
+
+.navigation .navbar .dropdown-menu *{
+	color: black !important;
+}
+
+.navigation .navbar .dropdown-menu a:hover{
+	background: #eee !important;
+}
+
+/*mascotas*/
+.item-user .image-user{
+	width: 75px;
+	height: 75px; 
+	border-radius: 100px;
+	overflow:  hidden;
+	margin-right: 15px;
+}
+
+.item-user .image-user img{
+	width: 100%;
+}
+
+.item-user .user-name, 
+.item-publication .user-name{
+	margin-top: 25px;
+}
+
+.item-user .user-name .namesurname a{
+	color:#555;
+	font-weight: bold;
+}
+
+.avatar-default{
+	width: 100%;
+}
+
+/*SIDEBAR*/
+.sidebar-32{
+	width: 32% !important;
+	padding: 0px !important;
+}
+
+#user-card, #new-pub{
+	padding: 25px;
+	width: 32%;
+}
+
+#new-pub{
+	padding: 18px;
+	padding-left:10px;
+}
+
+#user-card .avatar,
+.item-publication .image-user{
+	width: 75px;
+	height: 75px; 
+	border-radius: 100px;
+	overflow:  hidden;
+	margin-right: 15px;
+}
+
+#user-card .avatar img,
+.item-publication .image-user img,
+#data-profile .avatar img{
+	width: 100%;
+}
+
+#user-card .stats a:hover{
+	text-decoration: none;
+}
+
+#user-card .name-surname a,
+#user-card .number-stats{
+	color:#555;
+	font-weight: bold;
+}
+
+#user-card .label-stats,
+#user-card .number-stats{
+	display: block;
+	text-align: center;
+}
+
+#user-card .label-stats{
+	font-weight: bold;
+	color: #555;
+}
+
+#user-card .following-data{
+	float: left;
+	padding-left: 18px;
+	padding-right: 18px;
+	margin-top: 20px;
+	border-right: 2px solid #ccc;
+}
+
+#user-card .following-data:last-child{
+	border: none;
+}
+
+#user-card .following-data:first-child{
+	padding-left: 6px;
+}
+
+/*TIMELINE*/
+#publications, #registro{
+	min-height: 500px;
+}
+
+#publications .date{
+	color: gray;
+}
+
+/*PERFIL*/
+#data-profile {
+	text-align: left;
+}
+
+#data-profile .avatar{
+	width: 185px;
+	height: 185px; 
+	border-radius: 100px;
+	overflow:  hidden;
+}
+
+#data-profile .user-name {
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+#data-profile .user-name .name{
+	font-size: 30px;
+	font-weight: bold;
+	color: #555;
+}
+
+#data-profile .user-name .email{
+	font-size: 20px;
+	font-weight: bold;
+	color: #555;
+}
+
+#logo img{
+	margin-top:50px;
+	width: 50%;
+	height: 50%;
+}
+

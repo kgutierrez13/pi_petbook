@@ -1,0 +1,97 @@
+01:05:35:242 (14712) > --- NIXXES log start ---
+01:05:35:244 (14712) > 
+01:05:35:245 (14712) > Memory statistics:
+01:05:35:246 (14712) >   Total RAM = 9.9 GB (10153 MB)
+01:05:35:247 (14712) >   Avail RAM = 6.7 GB (6897 MB)
+01:05:35:249 (14712) >   Total virtual memory = 4.0 GB (4095 MB)
+01:05:35:250 (14712) >   Avail virtual memory = 3.4 GB (3460 MB)
+01:05:35:251 (14712) > OS = Windows Vista (build 9200)
+01:05:35:252 (14712) > Starting Tomb Raider v1.00.716.5
+01:05:35:283 (14712) > [Main] Current directory: D:\SQUARE ENIX\Tombraider
+01:05:35:289 (14712) > Mounted TITLE.000
+01:05:35:291 (14712) > Mounted PATCH.000
+01:05:35:332 (14712) > [Render] PCDeviceManager constructor start
+01:05:35:403 (14712) > [Render] Loading ADL...
+01:05:35:426 (14712) > [Render] Done loading ADL
+01:05:35:428 (14712) > [Render] Querying ADL for Eyefinity modes
+01:05:35:436 (14712) > [Render] PCDeviceManager constructor end
+01:05:35:500 (14712) > [Render] PCDX11DeviceManager constructor start
+01:05:35:502 (14712) > D3D Adapter Information:
+01:05:35:503 (14712) > Adapter Description: AMD Radeon(TM) Vega 8 Graphics
+01:05:35:504 (14712) > VendorID: 1002
+01:05:35:506 (14712) > DeviceID: 15d8
+01:05:35:507 (14712) > Revision: c2
+01:05:35:508 (14712) > Failed to load NVAPI!
+01:05:35:550 (14712) > Reducing mouse lag by setting frame latency to 1...
+01:05:35:551 (14712) > D3D reports feature level 11 is supported.
+01:05:35:553 (14712) > D3D reports hardware multiple command list support.
+01:05:35:554 (14712) > Loading AMD HD3D driver.
+01:05:35:555 (14712) > Could not find AmdDxExtCreate11!
+01:05:35:556 (14712) > AMD DirectX eXtension version: 9.1
+
+01:05:35:558 (14712) > Could not load AMD stereoscopic extension!
+01:05:35:565 (14712) > [Render] Querying ADL for Eyefinity modes
+01:05:35:581 (14712) > D3D Adapter Information:
+01:05:35:582 (14712) > Adapter Description: Microsoft Basic Render Driver
+01:05:35:583 (14712) > VendorID: 1414
+01:05:35:585 (14712) > DeviceID: 8c
+01:05:35:586 (14712) > Revision: 0
+01:05:35:587 (14712) > Failed to load NVAPI!
+01:05:35:594 (14712) > Reducing mouse lag by setting frame latency to 1...
+01:05:35:596 (14712) > D3D reports feature level 11 is supported.
+01:05:35:597 (14712) > D3D reports hardware multiple command list support.
+01:05:35:599 (14712) > [Render] PCDX11DeviceManager constructor end
+01:05:44:576 (14712) > D3D Adapter Information:
+01:05:44:578 (14712) > Adapter Description: AMD Radeon(TM) Vega 8 Graphics
+01:05:44:579 (14712) > VendorID: 1002
+01:05:44:581 (14712) > DeviceID: 15d8
+01:05:44:582 (14712) > Revision: c2
+01:05:44:584 (14712) > Failed to load NVAPI!
+01:05:44:619 (14712) > Reducing mouse lag by setting frame latency to 1...
+01:05:44:620 (14712) > D3D reports feature level 11 is supported.
+01:05:44:621 (14712) > D3D reports hardware multiple command list support.
+01:05:44:623 (14712) > Loading AMD HD3D driver.
+01:05:44:624 (14712) > Could not find AmdDxExtCreate11!
+01:05:44:625 (14712) > AMD DirectX eXtension version: 9.1
+
+01:05:44:627 (14712) > Could not load AMD stereoscopic extension!
+01:05:44:918 (14712) > [Render] Using DirectX 11
+01:05:45:540 (14712) > Initalizing audio...
+01:05:45:627 (14712) > Audio device found. FMOD reports 1 driver(s).
+01:05:45:629 (14712) > Audio Driver Name: Altavoz/Auricular (Realtek(R) Audio)
+01:05:45:630 (14712) > Speaker Mode: 2
+01:05:53:388 (14712) > [DLC] mounted pack 1 - 0x00000001 (steam id=208790)
+01:05:53:389 (14712) > [DLC] mounted pack 1 - 0x00000002 (steam id=208791)
+01:05:53:391 (14712) > [DLC] mounted pack 1 - 0x00000004 (steam id=208792)
+01:05:53:392 (14712) > [DLC] mounted pack 1 - 0x00000008 (steam id=208793)
+01:05:53:393 (14712) > [DLC] mounted pack 1 - 0x00000010 (steam id=208794)
+01:05:53:394 (14712) > [DLC] mounted pack 1 - 0x00010000 (steam id=208795)
+01:05:53:395 (14712) > [DLC] mounted pack 1 - 0x00020000 (steam id=208796)
+01:05:53:396 (14712) > [DLC] mounted pack 1 - 0x00040000 (steam id=208797)
+01:05:53:398 (14712) > [DLC] mounted pack 1 - 0x00100000 (steam id=208798)
+01:05:53:399 (14712) > [DLC] mounted pack 1 - 0x00200000 (steam id=208799)
+01:05:53:400 (14712) > [DLC] mounted pack 1 - 0x00400000 (steam id=208800)
+01:05:53:402 (14712) > [DLC] mounted pack 2 - 0x00000400 (steam id=208801)
+01:05:53:403 (14712) > [DLC] mounted pack 2 - 0x00000800 (steam id=208802)
+01:05:53:404 (14712) > [DLC] mounted pack 2 - 0x00001000 (steam id=208803)
+01:05:53:405 (14712) > [DLC] mounted pack 2 - 0x00002000 (steam id=208804)
+01:05:53:406 (14712) > [DLC] mounted pack 2 - 0x00004000 (steam id=208805)
+01:05:53:407 (14712) > [DLC] mounted pack 2 - 0x00100000 (steam id=208806)
+01:05:53:409 (14712) > [DLC] mounted pack 2 - 0x00200000 (steam id=208807)
+01:05:53:410 (14712) > [DLC] mounted pack 2 - 0x00400000 (steam id=208808)
+01:05:53:411 (14712) > [DLC] mounted pack 2 - 0x10000000 (steam id=208815)
+01:05:53:430 (14712) > [DLC] mounted DLC\PACK8.000 (steam id=208812, pack id=8)
+01:05:53:455 (14712) > [DLC] mounted DLC\PACK4.000 (steam id=208810, pack id=4)
+01:06:38:052 (14712) > Player object AddRef laracroft: 1 => 2
+01:06:38:057 (14712) > Player object AddRef laracroft: 2 => 3
+01:06:38:073 (14712) > Player object AddRef laracroft: 3 => 4
+01:35:09:884 (14712) > Player object RemRef laracroft: 4 => 3
+01:35:41:224 (14712) > Player object AddRef laracroft: 3 => 4
+01:52:13:433 (14712) > Player object RemRef laracroft: 4 => 3
+01:52:13:437 (14712) > Player object RemRef laracroft: 3 => 2
+01:52:13:439 (14712) > Player object RemRef laracroft: 2 => 1
+01:52:19:116 (14712) > Player object AddRef laracroft: 1 => 2
+01:52:19:124 (14712) > Player object AddRef laracroft: 2 => 3
+01:52:19:134 (14712) > Player object AddRef laracroft: 3 => 4
+02:18:09:690 (14712) > Player object RemRef laracroft: 4 => 3
+02:20:06:314 (14712) > Player object AddRef laracroft: 3 => 4
